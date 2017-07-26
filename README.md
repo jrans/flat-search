@@ -18,6 +18,8 @@ Created a repo to catalogue potential properties via github issues.
    - Communal Area, open plan kitchen living room or two separate
    - Place to store bikes and musical instruments
    - Generally nice, no damp
+   
+ ![preferred-location](https://user-images.githubusercontent.com/12045918/28643611-4fdb5cb0-724e-11e7-9167-f435b2cbd6eb.png)
  
 ## When we want it
 
