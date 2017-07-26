@@ -9,3 +9,5 @@ We promise to extend courtesy and respect to everyone involved in this project r
 If any member of the community violates this code of conduct, the maintainers of the flat search project may take action, removing issues, comments, and PRs or blocking accounts as deemed appropriate.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please let us know immediately.
+
+Water must not be left or placed on work surfaces where this is avoidable
